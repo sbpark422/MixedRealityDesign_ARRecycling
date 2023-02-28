@@ -209,7 +209,7 @@ This sample demonstrates 3D world space body tracking. A 3D skeleton is generate
 
 This sample requires a device with an A12 bionic chip running iOS 13 or above.
 
-## Point Clouds
+## Point Clouds 
 
 This sample shows all feature points over time, not just the current frame's feature points as the "AR Default Point Cloud" prefab does. It does this by using a slightly modified version of the `ARPointCloudParticleVisualizer` component that stores all the feature points in a Dictionary. Since each feature point has a unique identifier, it can look up the stored point and update its position in the dictionary if it already exists. This can be a useful starting point for custom solutions that require the entire map of point cloud points, e.g., for custom mesh reconstruction techniques.
 
