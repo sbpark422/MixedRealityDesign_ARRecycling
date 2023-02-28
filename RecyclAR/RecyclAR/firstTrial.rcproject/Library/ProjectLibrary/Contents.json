@@ -1,0 +1,22 @@
+[
+  {
+    "libraryIdentifier" : "fcd558b1c433d387460cb47ccbefc269",
+    "format" : "arObject",
+    "displayName" : "hazaaa.arobject"
+  },
+  {
+    "libraryIdentifier" : "69bd30b878e9a477be1538f5b4e0b3f8",
+    "format" : "arObject",
+    "displayName" : "cokeCan.arobject"
+  },
+  {
+    "libraryIdentifier" : "29e918c1383b7ba4391f059a5c3aadfb",
+    "format" : "model",
+    "displayName" : "Coke can.usdz"
+  },
+  {
+    "libraryIdentifier" : "647ce8e641294bb860c663b874aa977f",
+    "format" : "arObject",
+    "displayName" : "test01.arobject"
+  }
+]
